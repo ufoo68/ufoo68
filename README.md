@@ -1,6 +1,5 @@
-# My Qiita posts
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/ufoo68/posts.svg)](http://qiita.com/ufoo68)
-# My Qiita contributions
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/ufoo68/contributions.svg)](http://qiita.com/ufoo68)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/ufoo68/followers.svg)](http://qiita.com/ufoo68)
+[![](https://raw.githubusercontent.com/yuta17/yuta17/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yuta17/yuta17/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/yuta17/yuta17/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![](https://komarev.com/ghpvc/?username=yuta17&color=green)
